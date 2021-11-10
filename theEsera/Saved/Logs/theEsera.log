@@ -583,3 +583,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-02.32.18:791][  0]SourceControl: Source control is disabled
 [2021.11.10-02.32.19:547][  0]SourceControl: Source control is disabled
 [2021.11.10-02.32.19:877][  0]SourceControl: Source control is disabled
+[2021.11.10-02.32.20:072][  0]LogUProjectInfo: Found projects:
+[2021.11.10-02.32.20:153][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.10-02.32.20:155][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.10-02.32.23:553][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-02.32.23:955][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-02.32.23:955][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-02.32.24:589][  0]LogCollectionManager: Loaded 0 collections in 0.001784 seconds
+[2021.11.10-02.32.25:123][  0]LogFileCache: Scanning file cache for directory 'D:/TheEsera/theEsera/Saved/Collections/' took 0.01s
+[2021.11.10-02.32.25:123][  0]LogFileCache: Scanning file cache for directory 'D:/TheEsera/theEsera/Content/Developers/thana/Collections/' took 0.00s
+[2021.11.10-02.32.25:123][  0]LogFileCache: Scanning file cache for directory 'D:/TheEsera/theEsera/Content/Collections/' took 0.03s
+[2021.11.10-02.32.33:695][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (6.50s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 5504ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2021.11.10-02.32.34:261][  0]LogEngine: Initializing Engine...
+[2021.11.10-02.32.34:597][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-02.32.34:636][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-02.32.35:120][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.067 s
