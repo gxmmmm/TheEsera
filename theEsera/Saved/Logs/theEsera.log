@@ -3689,3 +3689,5 @@ Make sure '2DSideScrollerCharacter_C' has been compiled for  Get Arrow1
 [2021.11.10-14.44.43:747][196]LogExit: Editor shut down
 [2021.11.10-14.44.44:137][196]LogExit: Transaction tracking system shut down
 [2021.11.10-14.44.45:152][196]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.10-14.45.25:811][196]LogExit: Object subsystem successfully closed.
+[2021.11.10-14.45.27:521][196]LogShaderCompilers: Display: Shaders left to compile 0
