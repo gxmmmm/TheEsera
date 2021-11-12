@@ -852,3 +852,166 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.11.12-14.25.11:217][657]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.11.12-14.25.11:217][657]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
 [2021.11.12-14.25.11:217][657]LogFileHelpers: Loading map 'M_ShowCaseMap' took 0.256
+[2021.11.12-14.34.17:553][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:553][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:701][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:703][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:703][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:703][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:704][116]LogLinker: Warning: Asset '../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/widgets/ingame.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2021.11.12-14.34.17:757][116]LogBlueprint: Error: [AssetLog] D:\TheEsera\theEsera\Content\2DSideScrollerBP\widgets\pause.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.11.12-14.34.17:842][116]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/widgets/pause.pause
+[2021.11.12-14.34.18:667][116]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.11.12-14.34.22:122][116]LogSlate: Took 0.015859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.12-14.34.22:375][116]LogSlate: Took 0.026018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.12-14.34.49:323][  0]LogSlate: Window 'pause' being destroyed
+[2021.11.12-14.34.49:335][  0]LogSlate: Window 'pause' being destroyed
+[2021.11.12-14.34.49:615][  0]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.12-14.34.49:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.12-14.34.49:669][  0]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.12-14.34.49:669][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.12-14.35.04:154][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.11.12-14.35.04:750][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/level1.level1
+[2021.11.12-14.35.04:750][750]Cmd: MAP LOAD FILE="../../../../../TheEsera/theEsera/Content/2DSideScrollerBP/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.12-14.35.04:751][750]LightingResults: New page: Lighting Build
+[2021.11.12-14.35.04:751][750]LoadErrors: New page: Loading map: level1.umap
+[2021.11.12-14.35.04:752][750]LogWorld: UWorld::CleanupWorld for M_ShowCaseMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.12-14.35.04:752][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.12-14.35.04:752][750]MapCheck: New page: Map Check
+[2021.11.12-14.35.04:752][750]LightingResults: New page: Lighting Build
+[2021.11.12-14.35.04:781][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.12-14.35.04:882][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.11.12-14.35.04:884][750]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2021.11.12-14.35.05:002][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.12-14.35.05:002][750]LogAIModule: Creating AISystem for world level1
+[2021.11.12-14.35.05:031][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.11.12-14.35.05:034][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.12-14.35.05:035][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2021.11.12-14.35.05:035][750]LogFileHelpers: Loading map 'level1' took 0.285
+[2021.11.12-14.42.34:584][265]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.11.12-14.42.39:807][442]LogSlate: Window '2DSideScrollerExampleMap_BuiltData' being destroyed
+[2021.11.12-14.42.39:817][442]LogSlate: Window '2DSideScrollerExampleMap_BuiltData' being destroyed
+[2021.11.12-14.43.11:933][443]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.12-14.43.11:933][443]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.12-14.51.46:866][569]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.12-14.51.46:866][569]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.12-14.51.49:100][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.11.12-14.51.49:285][673]LogSlate: Window 'theEsera - Unreal Editor' being destroyed
+[2021.11.12-14.51.49:764][674]Cmd: QUIT_EDITOR
+[2021.11.12-14.51.49:764][674]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.12-14.51.49:797][674]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.12-14.51.49:890][674]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.12-14.51.49:890][674]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.12-14.51.49:909][674]LogAudio: Display: Audio Device unregistered from world 'level1'.
+[2021.11.12-14.51.50:001][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.12-14.51.50:003][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.12-14.51.50:114][674]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.12-14.51.50:114][674]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.12-14.51.50:133][674]LogExit: Preparing to exit.
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB29A100] Windows
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB29A200] Default__DeviceProfile
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FFA00] WindowsNoEditor
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB298600] WindowsServer
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FCB00] WindowsClient
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB29B400] IOS
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FEE00] iPadAir
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB299200] iPadAir2
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3600] IPadPro
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3700] iPadAir3
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB299000] iPadAir4
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A2900] iPadMini2
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB299C00] iPadMini3
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1500] iPadMini4
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB29AF00] iPadMini5
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6F00] iPhone6
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7000] iPodTouch6
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3500] iPhone7
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3400] iPodTouch7
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6600] iPhone5S
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1700] iPhone6Plus
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4F00] iPhone6S
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1100] iPhone6SPlus
+[2021.11.12-14.51.50:969][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5800] iPhone7Plus
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3D00] iPhoneSE
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5100] iPhone8
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1200] iPhone8Plus
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6100] iPhoneX
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1C00] iPhoneXS
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4500] iPhoneXSMax
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A0700] iPhoneXR
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7400] iPhone11
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3100] iPhone11Pro
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6E00] iPhone11ProMax
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A3F00] iPhoneSE2
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5A00] iPhone12Mini
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A2100] iPhone12
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5300] iPhone12Pro
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A2700] iPhone12ProMax
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6800] iPadPro105
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1300] iPadPro129
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6700] iPadPro97
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A0500] iPadPro2_129
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6900] iPad5
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5F00] iPad6
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FDE00] iPad7
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4600] iPad8
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF200] iPadPro11
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4B00] iPadPro2_11
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC100] iPadPro3_129
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7300] iPadPro4_129
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC400] AppleTV
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7700] AppleTV4K
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FCA00] TVOS
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6400] Mac
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC900] MacClient
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF600] MacNoEditor
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A1400] MacServer
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC500] Linux
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0A2200] LinuxAArch64
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FE700] LinuxNoEditor
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5000] LinuxAArch64NoEditor
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FE500] LinuxClient
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6200] LinuxAArch64Client
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FE100] LinuxServer
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4E00] LinuxAArch64Server
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FD700] Android
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4C00] Android_Low
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FCC00] Android_Mid
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5600] Android_High
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FEC00] Android_Default
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5400] Android_Adreno4xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FCE00] Android_Adreno5xx_Low
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5900] Android_Adreno5xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FDB00] Android_Adreno6xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5200] Android_Adreno6xx_Vulkan
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF000] Android_Mali_T6xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4100] Android_Mali_T7xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FE300] Android_Mali_T8xx
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4900] Android_Mali_G71
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FCF00] Android_Mali_G72
+[2021.11.12-14.51.50:970][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7B00] Android_Mali_G72_Vulkan
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF100] Android_Mali_G76
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C5E00] Android_Mali_G76_Vulkan
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FD900] Android_Mali_G77
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7900] Android_Mali_G77_Vulkan
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC200] Android_Vulkan_SM5
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C7600] Android_PowerVR_G6xxx
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF400] Android_PowerVR_GT7xxx
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4700] Android_PowerVR_GE8xxx
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FC300] Android_PowerVR_GM9xxx
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6C00] Android_PowerVR_GM9xxx_Vulkan
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FF700] Android_TegraK1
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C6500] Android_Unknown_Vulkan
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FFC00] Lumin
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0C4800] Lumin_Desktop
+[2021.11.12-14.51.50:971][674]LogDeviceProfile: Device profile begin destroy: [00000193FB0FEF00] HoloLens
+[2021.11.12-14.51.51:655][674]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.12-14.51.52:299][674]LogExit: Editor shut down
+[2021.11.12-14.51.52:302][674]LogExit: Transaction tracking system shut down
